@@ -34,6 +34,6 @@ Detailed Insights:
 
 -Sales by Outlet Size and Location
 
-For the complete visualizations, please refer to the attached PDF file in the repository. If you have any questions or feedback, feel free to reach out via LinkedIn or email (mailto:himanshugandass09@gmail.com).
+For the complete visualizations, please refer to the attached PDF file in the repository.
 
 Thank you for visiting my GitHub repository! If you found this project interesting, consider giving it a star ⭐.
